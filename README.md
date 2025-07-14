@@ -3,7 +3,7 @@ Identificação de pares "infectado-infectante" e estimativa de Intervalo Serial
 
 DESCRIÇÃO
 
-- Código “Pares SI”
+Código “Pares SI”
 
 O código “Pares SI” destina-se a identificar pares de infectado-infectante em registros de notificações de agravos, e a estimativa de Intervalo Serial (Serial Interval - SI).
 
